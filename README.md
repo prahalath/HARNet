@@ -2,6 +2,8 @@
 
 ✔ This repository contains code to our research work/publication, ***[HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices](https://www.sigmobile.org/mobisys/2018/workshops/deepmobile18/papers/HARNet.pdf)*** which was presented at [ACM MobiSys 2018 (2nd International Workshop on Embedded and Mobile Deep Learning, EMDL '18)](https://www.sigmobile.org/mobisys/2018/workshops/deepmobile18/).
 
+### Prahalathan Sundaramoorthy, Gautham Krishna Gudur, Manav Rajiv Moorthy, R Nidhi Bhandari, Vineeth Vijayaraghavan, "HARNet: Towards On-Device Incremental Learning using Deep Ensembles on Constrained Devices", ACM MobiSys 2018, 2nd International Workshop on Embedded and Mobile Deep Learning, Munich, Germany. 
+
 ✔ Recent advancements in the domain of pervasive computing have seen the incorporation of sensor-based Deep Learning algorithms in Human Activity Recognition (HAR). Contemporary Deep Learning models are engineered to alleviate the difficulties posed by conventional Machine Learning algorithms which require extensive domain knowledge to obtain heuristic hand-crafted features.
 
 ✔ Upon training and deployment of these Deep Learning models on ubiquitous mobile/embedded devices, it must be ensured that the model adheres to their computation and memory limitations, in addition to addressing the various mobile- and user-based heterogeneities prevalent in actuality.
